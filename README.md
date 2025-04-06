@@ -19,7 +19,7 @@ This project consists of two parts:
 clone the repo using `https://github.com/mustiecodes/NLP-Hausa-Translator.git`
 
 ### Backend Setup
-- cd ./backend/
+- Change directory: `cd ./backend/`
 -  Install the backend dependencies: `pip install -r requirements.txt`
 -  Run the FastAPI app: `uvicorn main:app --reload --port 8000`
 
